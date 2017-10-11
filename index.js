@@ -4,4 +4,4 @@ function shout(string){
 
 
 
-console.log(shout('hello'));
+console.log(shout(hello));
